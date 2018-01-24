@@ -1,0 +1,7 @@
+C:\Users\Josh\Documents\CAD01\Ass 4\Assignment 4\Games Logic Library\bin\Debug\Games Logic Library.pdb
+C:\Users\Josh\Documents\CAD01\Ass 4\Assignment 4\Games Logic Library\bin\Debug\Low Level Objects Library.dll
+C:\Users\Josh\Documents\CAD01\Ass 4\Assignment 4\Games Logic Library\obj\Debug\Games Logic Library.dll
+C:\Users\Josh\Documents\CAD01\Ass 4\Assignment 4\Games Logic Library\obj\Debug\Games Logic Library.pdb
+C:\Users\Josh\Documents\CAD01\Ass 4\Assignment 4\Games Logic Library\obj\Debug\Games Logic Library.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Documents\CAD01\Ass 4\Assignment 4\Games Logic Library\bin\Debug\Games Logic Library.dll
+C:\Users\Josh\Documents\CAD01\Ass 4\Assignment 4\Games Logic Library\bin\Debug\Low Level Objects Library.pdb
